@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Soumyadri Das</h1>
 <h3>A passionate full-stack developer from India</h3>
 
-<img align="center" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg" alt="soumyadri" />
+<img align="center" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=500&ext=jpg" alt="soumyadri" />
 
 - 🔭 I’m currently working on **Portfolio Site**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **soumyadridas@yahoo.com**
+- 📫 Reach me at **soumyadridas@yahoo.com**
 
 - ⚡ Fun fact **I love to play Football**
 
